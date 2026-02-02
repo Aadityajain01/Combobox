@@ -1,4 +1,4 @@
-import Combobox from "../components/Combobox";
+import Combobox from "../components/HComboBox/Combobox";
 import type { Meta, StoryObj } from '@storybook/react';
 
 const meta = {
